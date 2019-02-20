@@ -1,0 +1,5 @@
+#!/bin/bash
+
+docker stop gcc
+docker rm gcc
+
