@@ -8,6 +8,9 @@ build-essential
 
 run git config --global user.email og.ginger@gmail.com
 
+copy config/build /usr/local/bin/
+copy config/vimrc /etc/vim/vimrc
+
 volume /home/
 
 workdir /home/

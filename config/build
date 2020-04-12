@@ -1,0 +1,4 @@
+#!/bin/bash
+#Builds the main.cpp file using the g++ compiler and creates the executable "run".
+
+g++ -std=c++11 main.cpp -o run
